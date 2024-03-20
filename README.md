@@ -1,17 +1,16 @@
-### Hi there :smiley:
+# Hi, I'm Tiago 👋
 
-Me chamo Tiago, sou um programador Front End, atualmente estou aprendendo e criando projetos com: 
-<br>
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"><br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
-<br><br>
-e iniciando o aprendizado de:
-<br><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo"><br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo">
+## Intro
 
-<br><br><br>
+Developer and Systems Analysis and Development student, seeking an opportunity to start my journey in the back-end area. I'm always looking to improve myself, both in college and in extra courses. I'm eager to put my knowledge into practice and grow professionally in the world of technology.
+
+- HTML, CSS, JavaScript, Git e GitHub, Node.JS, Express.JS
+- Analytical thinking, problem-solving, teamwork, adaptability, resilience, and empathy.
+
+## My Contact
+
+tiiagolohan@gmail.com
++55 021 96966-3077
 
 [![Tiago Stats](https://github-readme-stats.vercel.app/api?username=tiagoLohan)](https://github.com/anuraghazra/github-readme-stats)
 
