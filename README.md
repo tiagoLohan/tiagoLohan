@@ -9,8 +9,10 @@ Developer and Systems Analysis and Development student, seeking an opportunity t
 
 ## My Contact
 
-tiiagolohan@gmail.com
+tiiagolohan@gmail.com <br>
 +55 021 96966-3077
+
+<br> <br>
 
 [![Tiago Stats](https://github-readme-stats.vercel.app/api?username=tiagoLohan)](https://github.com/anuraghazra/github-readme-stats)
 
