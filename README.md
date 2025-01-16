@@ -29,7 +29,9 @@ Estudante de Análise e Desenvolvimento de Sistemas, em transição de carreira 
 
 ## Projetos Relevantes
 
--
+- **Cadastro de Produtos com Python (Automação):**  
+  Automação utilizando Python (bibliotecas Pandas e PyAutoGUI) para realizar o cadastro de milhares de produtos em um sistema web de forma rápida e eficiente. O projeto inclui leitura de uma base de dados, preenchimento automático de formulários e envio dos dados, otimizando processos repetitivos e garantindo maior produtividade.  
+  Link: https://encurtador.com.br/ZtIQ6
 
 ## Experiência Profissional
 
