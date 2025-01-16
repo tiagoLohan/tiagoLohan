@@ -12,24 +12,24 @@
 
 ## Objetivo
 
-Conquistar oportunidade de estágio ou cargo júnior na área de desenvolvimento back-end.
+Conquistar oportunidade de estágio ou cargo júnior na área de desenvolvimento.
 
 ## Sobre mim
 
-Profissional com mais de 10 anos de experiência na área administrativa/saúde, em transição para a área de tecnologia. Busco uma oportunidade como estagiário ou profissional júnior em desenvolvimento back-end. Possuo forte habilidade analítica e aprendo rapidamente, e estou ansioso para aplicar meus conhecimentos em projetos reais, contribuindo para o sucesso da equipe.
+Estudante de Análise e Desenvolvimento de Sistemas, em transição de carreira para Tecnologia da Informação. Busco oportunidade de estágio ou desenvolvedor júnior, com maior interesse na área de back-end. Tenho afinidade com lógica de programação, bancos de dados e automação de processos, mas estou aberto a aprender e explorar outros nichos, como front-end e DevOps. Meu objetivo é contribuir com soluções eficientes e crescer junto com a equipe.
 
 ## Habilidades Técnicas
 
-- **Linguagens de Programação:** C#, JavaScript
-- **Frameworks e Bibliotecas:** .NET, Node.js, Express.js
-- **Bancos de Dados:** SQL Server, PostgreSQL
-- **Controle de Versão:** Git, GitHub
-- **Desenvolvimento Web:** HTML, CSS
-- **Testes:** xUnit
+- **Linguagens de Programação:** Python, C#, Javascript 💻
+- **Ferramentas de Análise de Dados:** Excel, SQL 💼🎲
+- **Frameworks e Bibliotecas:** Pandas, PyAutoGUI, .NET, Node.js, Express.js 🛠️
+- **Bancos de Dados:** SQL Server, PostgreSQL 📊
+- **Controle de Versão:** Git, GitHub 🌳
+- **Desenvolvimento Web:** HTML, CSS 🌐
 
-## Projeto
+## Projetos Relevantes
 
-- **[Calculadora com testes unitários](https://github.com/tiagoLohan/projeto-final-testes-unitarios)**: O projeto é uma classe chamada `CalculadoraImp` que faz operações matemáticas básicas como somar, subtrair, multiplicar e dividir. Eles fazem testes para garantir que essas operações funcionem bem. A biblioteca de testes é a xUnit.
+-
 
 ## Experiência Profissional
 
@@ -38,6 +38,7 @@ _07/2014 a 11/2023_
 Último cargo: Analista Administrativo Pleno
 
 **Responsabilidades:**
+
 - Gestão de contratos e pagamentos médicos, formalização de contratos, elaboração de adendos e distratos.
 - Criação de dashboards e análises detalhadas para a diretoria, utilizando indicadores como NPS e NIP.
 - Atendimento telefônico a beneficiários e RH das empresas clientes, análise de faturas e suporte aos executivos de contas.
@@ -47,7 +48,7 @@ _07/2014 a 11/2023_
 
 ## Formação Acadêmica
 
-- **Unigranrio:** Análise e Desenvolvimento de Sistemas – Jan 2024 a Jul 2026
+- **Unigranrio:** Análise e Desenvolvimento de Sistemas – Jan 2024 a Dez 2026
 - **Estácio:** Gestão Financeira – Conclusão em Jul 2023
 
 ## Cursos Complementares
@@ -61,8 +62,8 @@ _07/2014 a 11/2023_
 Obrigado por visitar meu perfil! Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato comigo.
 
 ---
+
 <br><br>
 [![Tiago Stats](https://github-readme-stats.vercel.app/api?username=tiagoLohan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoLohan&layout=compact)
-
