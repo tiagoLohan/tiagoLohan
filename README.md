@@ -16,7 +16,7 @@ Conquistar oportunidade de estágio ou cargo júnior na área de desenvolvimento
 
 ## Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas, em transição de carreira para Tecnologia da Informação. Busco oportunidade de estágio ou desenvolvedor júnior, com maior interesse na área de back-end. Tenho afinidade com lógica de programação, bancos de dados e automação de processos, mas estou aberto a aprender e explorar outros nichos, como front-end e DevOps. Meu objetivo é contribuir com soluções eficientes e crescer junto com a equipe.
+Estudante de Engenharia de Software em transição de carreira para a área de Tecnologia. Busco oportunidade como estagiário ou desenvolvedor júnior, com maior interesse em back-end e RPA. Possuo experiência com lógica de programação, bancos de dados e automação de processos, mas estou aberto a aprender outras áreas, como front-end e DevOps.
 
 ## Habilidades Técnicas
 
@@ -30,10 +30,26 @@ Estudante de Análise e Desenvolvimento de Sistemas, em transição de carreira 
 ## Projetos Relevantes
 
 - **Cadastro de Produtos com Python (Automação):**  
-  Automação utilizando Python (bibliotecas Pandas e PyAutoGUI) para realizar o cadastro de milhares de produtos em um sistema web de forma rápida e eficiente. O projeto inclui leitura de uma base de dados, preenchimento automático de formulários e envio dos dados, otimizando processos repetitivos e garantindo maior produtividade.  
-  Link: https://encurtador.com.br/ZtIQ6
+  Automação com Pandas e PyAutoGUI para cadastrar produtos em um sistema web.
+  Leitura de base de dados e preenchimento automático de formulários.  
+  Repositório: https://encurtador.com.br/ZtIQ6
+
+- **PDF Merger (Automação):**  
+  Automação para unir arquivos PDF usando PyPDF2 e Tkinter.
+  Interface simples para seleção de arquivos e validação dos formatos.
+  Repositório: https://encurtador.com.br/yoO1t
 
 ## Experiência Profissional
+
+**RAD INTERV - Radiologia Intervencionista**  
+_09/2024 a Atual_  
+Último cargo: Analista de Faturamento Médico
+
+**Responsabilidades:**
+
+- Faturamento de honorários médicos e gestão de guias de planos de saúde.
+- Emissão de notas fiscais, acompanhamento de pagamentos e análise de demonstrativos.
+- Apoio na solicitação de autorizações de cirurgias e orientação de pacientes.
 
 **Hapvida Notredame Intermédica**  
 _07/2014 a 11/2023_  
@@ -50,7 +66,7 @@ _07/2014 a 11/2023_
 
 ## Formação Acadêmica
 
-- **Unigranrio:** Análise e Desenvolvimento de Sistemas – Jan 2024 a Dez 2026
+- **Estácio:** Engenharia de Software – Jan 2025 a Dez 2028
 - **Estácio:** Gestão Financeira – Conclusão em Jul 2023
 
 ## Cursos Complementares
